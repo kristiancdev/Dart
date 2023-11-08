@@ -1,9 +1,7 @@
 # GUÍA DE ESTUDIO DART
 
-[![Build Status](https://travis-ci.com/TheAlgorithms/Dart.svg?branch=master)](https://travis-ci.com/TheAlgorithms/Dart)
-[![buymeacoffee](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.buymeacoffee.com/kristiancdev) &nbsp;
-[![Discord chat](https://img.shields.io/discord/808045925556682782.svg?logo=discord&colorB=5865F2)](https://the-algorithms.com/discord/) &nbsp;
-[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/#TheAlgorithms_community:gitter.im)
+![GitHub Followers](https://img.shields.io/github/followers/kristiancdev?style=social)
+![GitHub Followers](https://img.shields.io/github/stars/kristiancdev?style=social)
 
 > [!IMPORTANT]
 > La guía aún está en trabajo.
@@ -425,3 +423,5 @@ Puedes encontrar más documentación y ejemplos de código en el recorrido por l
 https://dart.dev/guides/libraries/library-tour
 https://api.dart.dev/stable/3.1.5/index.html
 https://dart.dev/effective-dart/style
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/kristiancdev)
