@@ -1,6 +1,12 @@
 # GUÍA DE ESTUDIO DART
+
+[![Build Status](https://travis-ci.com/TheAlgorithms/Dart.svg?branch=master)](https://travis-ci.com/TheAlgorithms/Dart)
+[![buymeacoffee](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.buymeacoffee.com/kristiancdev) &nbsp;
+[![Discord chat](https://img.shields.io/discord/808045925556682782.svg?logo=discord&colorB=5865F2)](https://the-algorithms.com/discord/) &nbsp;
+[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/#TheAlgorithms_community:gitter.im)
+
 > [!IMPORTANT]
->La guía aún está en trabajo.
+> La guía aún está en trabajo.
 
 ![Logo](https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg)
 
@@ -18,7 +24,7 @@ Algunas de las características clave de Dart incluyen la capacidad de ser compi
 
 Al igual que otros lenguajes de programación requiere de una función principal de tipo `main()`, para iniciar la ejecución.
 
-A continuación, veremos la sintaxis de Dart con nuestro primer *"Hola, Mundo"*.
+A continuación, veremos la sintaxis de Dart con nuestro primer _"Hola, Mundo"_.
 
 ```dart
 void main() {
@@ -45,11 +51,12 @@ var image = {
 };
 ```
 
-> Lee más sobre [variables](#variables) en Dart, incluyendo valores por defecto, las palabras clave final y const, y tipos estáticos. ==>link variables
+> Lee más sobre [variables](variables/variables) en Dart, incluyendo valores por defecto, las palabras clave final y const, y tipos estáticos. ==>link variables
 
 ### Sentencias de control
 
 En Dart, al igual que en muchos otros lenguajes de programación, se utilizan varias sentencias de control para manejar la lógica y el flujo de ejecución del programa. Las principales sentencias de flujo de control en Dart incluyen:
+
 - Condicional IF
 - Ciclo For
 - Ciclo ForEach
@@ -137,7 +144,7 @@ import 'path/to/my_other_file.dart';
 
 ### Clases
 
-Las clases son bloques fundamentales de la programación orientada a objetos (OOP) que permiten modelar entidades, definir atributos y comportamientos. Las clases son plantillas para crear objetos, y cada objeto es una instancia de una clase. 
+Las clases son bloques fundamentales de la programación orientada a objetos (OOP) que permiten modelar entidades, definir atributos y comportamientos. Las clases son plantillas para crear objetos, y cada objeto es una instancia de una clase.
 
 Aquí tienes un ejemplo básico de cómo se define una clase en Dart:
 
