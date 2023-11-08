@@ -34,7 +34,7 @@ En este ejemplo, el programa inicia su ejecución en la función `main()`, que e
 
 > Lea más sobre la función main() en Dart, incluyendo parámetros opcionales para argumentos de línea de comandos. ==> En construcción 🛠️
 
-### Variables
+### [Variables](variables/variables.md)
 
 Incluso en Dart que tiene un `tipeado fuerte`, puedes declarar la mayoría de las variables sin especificar explícitamente su tipo usando la palabra `var`. ==> En construcción 🛠️
 
