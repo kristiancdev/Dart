@@ -48,18 +48,15 @@ El código de este sitio sigue las convenciones de la guía de estilo de Dart.
 - https://api.dart.dev/stable/3.1.5/index.html
 - https://dart.dev/effective-dart/style
 
-## Autor ✒️
-
-- [Github: KristiancDev](https://github.com/kristiancdev)
-- [Instagram: @KristiancDev](https://github.com/kristiancdev)
-- [TikTok: @KristiancDev](https://github.com/kristiancdev)
-- [Linkedin: CristianCevallos](www.linkedin.com/in/cristiancevallos)
-
-## ¡Gracias! 🎁
-
+## ¡Gracias por llegar hasta aquí, por favor! 🎁
 - Comenta a otros sobre este proyecto 📢
-- Invita una cerveza 🍺 o un café ☕
+- Invítame una cerveza 🍺 o un café ☕
 - Regalame un estrella al repo ⭐
 - etc.
+
+<p>
+<a href="https://github.com/kristiancdev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.instagram.com/kristiancdev/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://www.tiktok.com/@kristiancdev" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/tiktok-%2312100E.svg?&style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/cristiancevallos" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/kristiancdev)
