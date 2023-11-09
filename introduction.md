@@ -14,7 +14,7 @@ En este ejemplo, el programa inicia su ejecución en la función `main()`, que e
 
 > Lea más sobre la función [main() en Dart](https://kristiancdev.github.io/), incluyendo parámetros opcionales para argumentos de línea de comandos.
 
-### [Variables](/guia_de_estudio_dart/syntax_basics/variables.md)
+### [Variables](/dart/syntax_basics/variables.md)
 
 Incluso en Dart que tiene un [`tipeado fuerte`](), puedes declarar la mayoría de las variables sin especificar explícitamente su tipo de dato usando la palabra `var`.
 
@@ -29,7 +29,7 @@ var image = {
 };
 ```
 
-> Lee más sobre [variables en Dart](/guia_de_estudio_dart/syntax_basics/variables.md), incluyendo valores por defecto, las palabras clave final y const, y tipos estáticos.
+> Lee más sobre [variables en Dart](/dart/syntax_basics/variables.md), incluyendo valores por defecto, las palabras clave final y const, y tipos estáticos.
 
 ### Sentencias de control
 
@@ -102,9 +102,9 @@ Herramientas como IDEs y dartdoc tratan doc de forma especial.
 */
 ```
 
-> Más información sobre los [comentarios en Dart](/guia_de_estudio_dart/syntax_basics/comments.md), incluido el funcionamiento de las herramientas de documentación.
+> Más información sobre los [comentarios en Dart](/dart/syntax_basics/comments.md), incluido el funcionamiento de las herramientas de documentación.
 
-### [Importaciones](/guia_de_estudio_dart/syntax_basics/libraries_imports.md)
+### [Importaciones](/dart/syntax_basics/libraries_imports.md)
 
 Para importar bibliotecas o archivos que has creado o que provienen de fuentes externas, se utiliza la palabra clave `import` seguida de la ruta del archivo.
 
@@ -119,7 +119,7 @@ import 'package:test/test.dart';
 import 'path/to/my_other_file.dart';
 ```
 
-> Lea más sobre [bibliotecas y visibilidad en Dart](/guia_de_estudio_dart/syntax_basics/libraries_imports.md), incluyendo prefijos de bibliotecas, mostrar y ocultar, y carga perezosa a través de la palabra clave deferred. ==> En construcción 🛠️
+> Lea más sobre [bibliotecas y visibilidad en Dart](/dart/syntax_basics/libraries_imports.md), incluyendo prefijos de bibliotecas, mostrar y ocultar, y carga perezosa a través de la palabra clave deferred. ==> En construcción 🛠️
 
 ### [Clases](https://kristiancdev.github.io/)
 
@@ -397,3 +397,5 @@ A medida que continúe aprendiendo sobre el lenguaje Dart, tenga en cuenta estos
 - Dart tiene tanto expresiones (que tienen valores en tiempo de ejecución) como sentencias (que no los tienen). Por ejemplo, la expresión condicional condition ? expr1 : expr2 tiene un valor de expr1 o expr2. Compárelo con una sentencia if-else, que no tiene valor. Una sentencia suele contener una o varias expresiones, pero una expresión no puede contener directamente una sentencia.
 
 - Las herramientas Dart pueden reportar dos tipos de problemas: advertencias y errores. Las advertencias son sólo indicaciones de que su código podría no funcionar, pero no impiden que su programa se ejecute. Los errores pueden ser de compilación o de ejecución. Un error en tiempo de compilación impide que el código se ejecute; un error en tiempo de ejecución produce una excepción mientras el código se ejecuta.
+
+**[Volver al menu 🔙](/README.md)**

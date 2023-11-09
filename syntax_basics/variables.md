@@ -221,4 +221,5 @@ const set = {if (list is List<int>) ...list}; // ...y una propagación (spread).
 Estos ejemplos muestran cómo se puede utilizar `const` para crear valores constantes y cómo se comportan las variables que contienen estos valores en Dart.
 
 > **Nota:** Aunque un objeto final no puede modificarse, sus campos sí pueden cambiarse. En comparación, un objeto const y sus campos no pueden modificarse: son inmutables.
-> _[Volver al menu 🔙](/guia_de_estudio_dart/README.md)_
+
+**[Volver al menu 🔙](/README.md)**

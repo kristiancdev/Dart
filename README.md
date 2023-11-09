@@ -24,7 +24,7 @@ Dart se destaca por ser un lenguaje de programación orientado a objetos con una
 
 | Sintaxis Básica                                           |
 | --------------------------------------------------------- |
-| [Introducción](/guia_de_estudio_dart/introduction.md)     |
+| [Introducción](/introduction.md)                          |
 | [Variables](syntax_basics/variables.md)                   |
 | [Operadores](syntax_basics/operators.md)                  |
 | [Comentarios](syntax_basics/comments.md)                  |
